@@ -1,0 +1,17 @@
+
+
+nav {
+  @apply sticky top-0 flex justify-between items-center bg-cyan-800 text-white py-5 px-3 md:px-5 mx-2 rounded
+}
+nav h1 {
+  @apply md:text-2xl lg:text-3xl  font-semibold;
+}
+div{
+  @apply space-x-2
+}
+nav button {
+  @apply bg-cyan-950 md:px-6 md:py-2 px-4 py-2 rounded font-medium text-sm md:text-base lg:text-lg relative;
+}
+.cartSpan{
+  @apply absolute -top-2 -right-2 bg-white text-black rounded-full px-[7px] py-[1px] text-sm
+}

@@ -1,0 +1,9 @@
+.cart {
+  @apply max-w-[240px]
+}
+.cartItem{
+  @apply flex justify-between items-center p-8 mx-2 shadow-md rounded bg-slate-100
+}
+.cartItem h3{
+  @apply font-bold
+}

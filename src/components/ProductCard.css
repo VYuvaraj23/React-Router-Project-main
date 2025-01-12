@@ -1,0 +1,15 @@
+.card{
+  @apply border py-5 px-2 rounded-md hover:ring-4 bg-white  shadow-md
+}
+.card section{
+  @apply flex flex-col gap-2 
+}
+.image{
+  @apply w-full h-48 object-contain;
+}
+.title{
+  @apply text-xl font-medium cursor-pointer
+}
+.price{
+  @apply text-green-900 text-lg font-semibold
+}

@@ -1,0 +1,3 @@
+.loading{
+  @apply text-3xl font-mono font-bold mt-20 text-center h-screen
+}
