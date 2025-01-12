@@ -5,7 +5,7 @@
 }
 
 .cartDiv-1 {
-  @apply grid  space-y-11 items-center justify-center ;
+  @apply grid  space-y-11 items-center justify-center mb-10 ;
 }
 
 .cartDiv-2 {
