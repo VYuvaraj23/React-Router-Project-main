@@ -9,12 +9,12 @@ This project is a React application bootstrapped using Vite. It offers a fast de
 - Responsive layout and cart modal with item removal.
 
 ## Tech Stack
-- Frontend: React, JavaScript/TypeScript
+- Frontend: React, JavaScript
 - Build Tool: Vite
 - Styling: Tailwind CSS 
 
 ## Deployment
-Live Demo: `https://react-router-project-add-to-cart.netlify.app/`
+Live Demo: `https://react-router-v7-add-cart.netlify.app/`
 
 ## Installation
 1. Clone the repository.
